@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A developer interested in mathematics and data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vorad2&label=Profile%20views&color=0e75b6&style=flat" alt="vorad2" /> </p>
-
 - 🔭 I’m currently working on [knuckle_bones](https://github.com/VorAd2/knuckle_bones)
 
 - 📫 How to reach me **adrianovor@gmail.com**
