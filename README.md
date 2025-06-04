@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/vitor-lira-4002b0288/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
