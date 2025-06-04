@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vorad2&show_icons=true&locale=en" alt="vorad2" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vorad2&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
