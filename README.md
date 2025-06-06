@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **adrianovor@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 # Languages
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
