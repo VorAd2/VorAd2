@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A developer interested in mathematics and data</h3>
 
-- 🔭 I’m currently working on [knuckle_bones](https://github.com/VorAd2/knuckle_bones)
+- 🔭 I’m currently working on [knuckle_bones](https://github.com/VorAd2/knuckle_bones) and [safelock](https://github.com/VorAd2/safelock-pass-manager)
 
 - 📫 How to reach me **adrianovor@gmail.com**
 
