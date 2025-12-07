@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&height=130&color=5:108dc7,100:ef8e38' alt='header svg'/> 
+<img src='https://capsule-render.vercel.app/api?type=waving&height=130&color=5:d6c16d,70:2e434f' alt='header svg'/> 
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A developer interested in mathematics and data</h3>
 
