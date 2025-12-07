@@ -4,7 +4,7 @@
 
 - 🏫 Federal Institute of Education, Science and Technology of Ceará (IFCE)
 
-- 🔭 I’m currently developing my skills through [Nexo](https://github.com/VorAd2/nexo-link-manager) and knuckle_bones
+- 🔭 I’m currently developing my skills through [Nexo](https://github.com/VorAd2/nexo-link-manager) and knuckle_bones(private)
 
 - 📫 How to reach me **adrianovor@gmail.com**
 
