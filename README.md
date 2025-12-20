@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=130&color=5:d6c16d,70:2e434f' alt='header svg'/> 
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A developer interested in mathematics and data</h3>
+<h3 align="center">A student developer interested in mathematics and data</h3>
 
 - 🏫 Federal Institute of Education, Science and Technology of Ceará (IFCE)
 
