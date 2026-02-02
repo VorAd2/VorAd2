@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **adrianovor@gmail.com**
 
-- 🎮 **Side project**: Looking to collaborate with someone(students or beginners) interested in  **game design and pixel art** for a small project focused on learning and portfolio.
-
 # Languages
 [![Languages](https://skillicons.dev/icons?i=dart,javascript)](https://skillicons.dev)
 
